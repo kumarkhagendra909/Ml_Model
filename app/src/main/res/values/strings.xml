@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ML_MODEL</string>
+    <string name="image_classification">Image classification!</string>
+    <string name="select_image">Select Image</string>
+    <string name="image_choosen">Image_choosen</string>
+    <string name="capture">Capture</string>
+    <string name="predict">Predict</string>
+    <string name="result">Result:</string>
+</resources>
